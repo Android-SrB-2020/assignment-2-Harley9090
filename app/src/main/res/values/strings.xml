@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Questions2</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">Android Trivia</string>
+    <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About Trivia</string>
+    <string name="title_trivia_rules">Trivia Rules</string>
+    <string name="share_success_text">I mastered #UdacityAndroidTrivia with %1$d/%2$d correct questions!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+
+
+
+
+    <string name="question_1">The Rick &amp; Morty That The Show Follows Are Originally From Dimension C-173</string>
+    <string name="question_2">Jerry\'s Station Wagon Is Based On The Car From National Lampoon\'s Vacation?</string>
+    <string name="question_3">Rick &amp; Morty Have Appeared In The Opening Title Screen Of The Simpsons?</string>
+    <string name="question_4">Jaguar From \'Pickle Rick\' Had His Own Spin Off Show With Adult Swim?</string>
+    <string name="question_5">Two Brothers\' Is The First Show Rick &amp; Morty Watch On Inter-Dimensional Cable?</string>
+    <string name="question_6">According To Dan Harmon, A Schmeckle Is Worth $148?</string>
+    <string name="question_7">The Bloomflark Is The Universal Currency For The Galactic Federation?</string>
+    <string name="question_8">When Bird-Person Is \'Reborn\' He Is Dubbed Phoenix-Bird?</string>
+    <string name="question_9">Doctor Neon Bloom Runs Anatomy Park?</string>
+    <string name="question_10">When Snuffles Is Able To Talk, He Changes His Name To Snowball?</string>
+    <string name="question_11">"Wubba Lubba Dub Dub" Means \'Let\'s Party\'?</string>
+    <string name="question_12">Leading Up To The First Episode, Rick Had Left Beth And The Family For 10 Year</string>
+    <string name="question_13">In \'Total Rickall\', The Only Character That Isn\'t A Parasite Is Pencilvester?</string>
+    <string name="question_14">Tammy Killed Bird-Person On Their Wedding Day?</string>
+    <string name="question_15">When Being Scammed By The Zigereons, Rick\'s Safe Code Is \'1-3-5-3\'?</string>
+    <string name="question_16">Ice-T\'s Real Name On Alphabetrium Was H2O-T?</string>
+    <string name="question_17">When Jerry &amp; Beth Split Up, Jerry Enters A Relationship With A Krootabulan?</string>
+    <string name="question_18">The Episode \'Something Ricked This Way\' Is A Parody Of An Edgar Allen Poe Poem</string>
+    <string name="question_19">Rick\'s Hivemind Ex-Lover Is Called Purity?</string>
+    <string name="question_20">The Conjoint Twin That Simultaneously Host The News &amp;v A Cooking Show Are Calle Michael &amp; Pichael?</string>
+
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="play">Play</string>
+    <string name="about">about</string>
+    <string name="cheat">cheat</string>
+    <string name="cheatText">TextView</string>
+    <string name="view_about_page">View About Page</string>
+    <string name="view_cheat_page">View Cheat Page</string>
+    <string name="about_pageOverflow">About Page</string>
+</resources>

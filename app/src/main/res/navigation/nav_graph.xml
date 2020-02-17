@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="work.nbcc.questions2.MainFragment"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_cheatFragment"
+            app:destination="@id/cheatFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_game"
+            app:destination="@id/game" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="work.nbcc.questions2.AboutFragment"
+        android:label="About" />
+    <fragment
+        android:id="@+id/cheatFragment"
+        android:name="work.nbcc.questions2.CheatFragment"
+        android:label="Cheat"
+        tools:layout="@layout/fragment_cheat" />
+    <fragment
+        android:id="@+id/game"
+        android:name="work.nbcc.questions2.Game"
+        android:label="Game"
+        tools:layout="@layout/fragment_game" />
+</navigation>
