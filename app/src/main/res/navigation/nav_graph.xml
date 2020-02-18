@@ -30,7 +30,7 @@
         tools:layout="@layout/fragment_cheat" />
     <fragment
         android:id="@+id/game"
-        android:name="work.nbcc.questions2.Game"
+        android:name="work.nbcc.questions2.GameFragment"
         android:label="Game"
         tools:layout="@layout/fragment_game" />
 </navigation>
